@@ -1,2 +1,1 @@
-# myappportfolio
-This is a basic android app :/
+This app is a basic android app with buttons to navigate to various applications that I will be building.
